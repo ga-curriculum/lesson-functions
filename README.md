@@ -1,9 +1,10 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Functions
 
-## Lesson Plan
+### Learning Objectives
 By the end of this lesson, students should be able to:
-* Write simple and complex functions
-* Understand the argument structure of functions
-* Modularize their code and be able to use functions inside functions
-* Tell the difference between `return` and `print()` in a function
-* Be able to describe the basics of variable scope
+- Describe the general form of functions.
+- Define functions with single or multiple arguments.
+- Call functions with arguments.
+- Describe the differences between `return` and `print`.
+- Describe the basics of variable scope.
+- Define functions that have other functions inside.
